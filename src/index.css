@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.App > div{
+  font-size: 40px;
+  font-family: 'Roboto';
+  border:2px solid blue;
+  border-radius: 20px;
+  text-align: center;
+  
+  
+  
+  display:inline-block;
+  width:19.7%;
+  
+  height: 47vh;
+  
+  
+
+}
+.App{
+  padding-left: 5px;
+  
+  
+  border:2px solid red;
+  border-radius: 20px;
+  height: 100vh;
+
+  
+  
+
+}
