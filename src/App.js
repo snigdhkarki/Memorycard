@@ -1,3 +1,4 @@
+/*use npm start to use*/
 import {useEffect, useState} from 'react';
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
     d1.addEventListener('click',function(){
       count++;
       
-      if(count%2 == 0){
+      if(count%2 === 0){
       let clickn = [];
       clickn = click;
       clickn[arr[i-1]-1] = clickn[arr[i-1]-1]+1;
